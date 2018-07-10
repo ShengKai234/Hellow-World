@@ -2,4 +2,6 @@
 
 
 Hey! I'm Kai. Nice to meet you everyone.
-I'm a new coder. I want to improve my coding skill.
+I'm a new programer. I want to improve my coding skill.
+Share your idea or viewpoints for me.
+Thanks
